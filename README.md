@@ -10,7 +10,7 @@ A Gabdullin, G Shvedov, M Ivanou, I Afanasyev
 https://scholar.google.com/citations?hl=en&user=FGWF4JoAAAAJ
 
 ## elibrary.ru
-https://elibrary.ru/  # fixme:
+https://elibrary.ru/author_items.asp?authorid=1006303
 
 ## Research Gate
 https://www.researchgate.net/profile/Mikhail_Ivanou
