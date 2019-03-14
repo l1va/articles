@@ -5,6 +5,8 @@ List of my articles and links to them on different platforms
 A Gabdullin, G Shvedov, M Ivanou, I Afanasyev
 2. Сравение прямых и косвенных методов измерения внешней силы, приложенной к роботу
 Хусаинов Р.Р., Костенко К.В., Иванов М.А., Климчик А.С.
+3. Map Comparison of Lidar-based 2D SLAM Algorithms Using Precise Ground Truth
+R Yagfarov, M Ivanou, I Afanasyev
 
 ## Google scholar
 https://scholar.google.com/citations?hl=en&user=FGWF4JoAAAAJ
