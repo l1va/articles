@@ -1,5 +1,15 @@
 # articles
-List of my articles and links to them on different platforms:
+
+## Google scholar
+https://scholar.google.com/citations?hl=en&user=FGWF4JoAAAAJ
+
+## elibrary.ru
+https://elibrary.ru/author_items.asp?authorid=1006303
+
+## Research Gate
+https://www.researchgate.net/profile/Mikhail_Ivanou
+
+## List of my articles (can be not relevant):
 
 - Continuous Integration and Continuous Delivery in the Process of Developing Robotic Systems  
 Vadim Rashitov, Mikhail Ivanou  
@@ -26,11 +36,4 @@ https://www.elibrary.ru/item.asp?id=30384927
 Иванов М.А., Попов Д.И., Мамедов Ш.Н., Климчик А.С., Хусаинов Р.Р., Барахтин А.В., Соловьев К.Ю., Страшинская О.Ю.  
 https://www.elibrary.ru/item.asp?id=39299928
 
-## Google scholar
-https://scholar.google.com/citations?hl=en&user=FGWF4JoAAAAJ
 
-## elibrary.ru
-https://elibrary.ru/author_items.asp?authorid=1006303
-
-## Research Gate
-https://www.researchgate.net/profile/Mikhail_Ivanou
